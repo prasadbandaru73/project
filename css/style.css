@@ -7,7 +7,7 @@
 
 .bannerBgImage{
     height: 100vh;
-    background-image: url("https://github.com/prasadbandaru73/project/commit/72cc6b3358361db8a264f6fb59a886e147a7c719#r121869277");
+    background: url("https://github.com/prasadbandaru73/project/commit/72cc6b3358361db8a264f6fb59a886e147a7c719#r121869277");
     background-size: cover;
     position: relative;
 
@@ -18,7 +18,7 @@
     top: 20%;
     left: 45%;
     transform: translate(-50%,-50%);
-    color: white;
+    color: red;
 }
 .bannerTitle{
     font-size: 4rem;
